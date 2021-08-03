@@ -6,7 +6,7 @@ logging:
 
 spring:
   application:
-    name: learn-spring-boot
+    name: order
   datasource:
     username: root
     password: toor
